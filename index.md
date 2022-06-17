@@ -1,4 +1,4 @@
-3rd Eye for the blind
+# 3rd Eye for the blind
 The 3rd Eye is a handheld system which uses sensors to provide a path for the wearer. Similar to a walking stick, the sensor buzzes the person whenever they are in close contact with a foreign object.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
