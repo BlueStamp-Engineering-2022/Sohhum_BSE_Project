@@ -5,7 +5,8 @@ The 3rd Eye is a handheld system which uses sensors to provide a path for the we
 |:--:|:--:|:--:|:--:|
 | Sohhum Sinha | Foothill High School | Electrical Engineering | Rising Sophomore
 
-![Headstone Image]([https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg](https://lh3.googleusercontent.com/pw/AM-JKLWqexcmbBaSN__BVBs6gFIdK9ClUCxrdpvP3g2fyQHf4lO98nihNCL3Bi6YQLYHV9KN5AYePs-I3lOP5BVN2qqYYHlZNOpokX2VAIv5WYlUc6kO0joQc-vAcAbwL7_JVzvIzbQIgDpP6J8M6h_pnrq-=s1740-no?authuser=0))
+![IMG_5550](https://user-images.githubusercontent.com/69573579/174658622-24401884-583e-4028-9c01-c0be3f2a9fa8.JPG)
+
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
