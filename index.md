@@ -22,6 +22,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was building a functional prototype of the Third Eye on a pre-soldered breadboard. I had to adjust pin values in the Arduino code to correctly correspond to the motors and buzzers. In addition, the schematics provided were incorrect which meant adjusting some components to correct the flow of electricity. For example, the 2nd pin of the switch was connected to a pin on the Arduino instead of power. In addition, the Arduino code was not uploading to the Arduino given a few programmer issues. At first, I checked all of the settings to make sure it was uploading to an Arduino Nano. Once the settings were correct, I tried resetting the Arduino which did not help. Finally, I found some new firmware for the Arduino software which was meant for the nano. The program uploaded and the buzzer and motor systems worked. The next steps will involve soldering a prototype of the project and adjusting the range of the sensor.
 
+![Circuit design Cool Turing-Allis _ Tinkercad - Google Chrome 6_24_2022 9_46_51 AM (2)](https://user-images.githubusercontent.com/69573579/175605128-0f56ad6f-224c-42e6-ac73-c78de233044b.png)
+
 [![First Milestone](https://img.youtube.com/vi/3v4VdlQ26po/sddefault.jpg)](https://www.youtube.com/watch?v=3v4VdlQ26po "First Milestone")
 # Starter Project
 
