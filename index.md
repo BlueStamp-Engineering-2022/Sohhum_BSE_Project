@@ -3,7 +3,7 @@ The 3rd Eye is a handheld system which uses sensors to provide a path for the we
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Sohhum Sinha | Foothill High School | Electrical Engineering | Rising Sophomore
+| Sohhum | Foothill High School | Electrical Engineering | Rising Sophomore
 
 ![IMG_5550](https://user-images.githubusercontent.com/69573579/174658622-24401884-583e-4028-9c01-c0be3f2a9fa8.JPG)
 
